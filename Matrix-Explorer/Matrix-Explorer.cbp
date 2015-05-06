@@ -32,7 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="../MatrixExplorer/Link3D.h" />
+		<Unit filename="../MatrixExplorer/Matrix3D.h" />
+		<Unit filename="../MatrixExplorer/MatrixIterator.h" />
+		<Unit filename="../MatrixExplorer/ObjectInserter.h" />
+		<Unit filename="../MatrixExplorer/ObjectViewer.h" />
+		<Unit filename="../MatrixExplorer/main.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
